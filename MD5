@@ -1,9 +1,9 @@
-c449d0e89d4adb68bcacc601193d2936 *DESCRIPTION
+ab68e43572c8455ddb37c7dc4edc2b0e *DESCRIPTION
 866cead90b893a67e45d51b4288127f4 *NAMESPACE
 1771a18cc0e849709ad9f66c5f018d2f *R/teda-b-s3-plot.R
 825a0e054d50115194ad9ad3b13e51c8 *R/teda-b-s3-print.R
 e5c0c10cbbdf55d3caf76b86b76c4a40 *R/teda-b-s3-summary.R
-675f218c10e0321c15b265e129e0d58a *R/teda-batch.R
+8d09795cc74e705ac8ed7b3cfe9caf1f *R/teda-batch.R
 224716f06ac94c50b8d21a05a9e36b36 *R/teda-r-s3-print.R
 d6d848e986c902b7e94bf045eb241d7b *R/teda-r-s3-summary.R
 0c4933f8657f75b57dbb5bdacab386f0 *R/teda-recursive.R

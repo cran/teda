@@ -2,7 +2,7 @@ Package: teda
 Type: Package
 Title: An Implementation of the Typicality and Eccentricity Data
         Analysis Framework
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
       person("David", "Ciar", email = "dciar86@ceh.ac.uk", role = c("cre","aut")),
       person("James", "Wright", email = "j.s.wright@liverpool.ac.uk", role = c("aut"))
@@ -20,8 +20,8 @@ RoxygenNote: 5.0.1
 Imports: graphics, stats
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2016-10-27 07:22:10 UTC; dciar86
+Packaged: 2017-01-20 16:09:58 UTC; dciar86
 Author: David Ciar [cre, aut],
   James Wright [aut]
 Repository: CRAN
-Date/Publication: 2016-10-27 17:40:30
+Date/Publication: 2017-01-22 11:25:24
